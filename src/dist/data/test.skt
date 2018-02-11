@@ -1,1 +1,46 @@
-test
+^ Sample ski jumpers list.
+Ski jumper 1000	POL	R	FF0000	FF0000	FF0000	FF0000	FF0000	FF0000	FF0000	FF0000	FF0000	FF0000	FF0000
+Ski jumper 1001	POL		FF0000	FF0000	FF0000	FF0000	FF0000	FF0000	FF0000	FF0000	FF0000	FFFFFF	FF0000
+^ Some ski jumper's properties can be empty.
+Ski jumper 1002							FF0000	FF0000	FF0000	FF0000		FFFFFF	FF0000
+
+^ You can remove trailing tabulations if they're not needed.
+Ski jumper 1003	SLO	R
+Ski jumper 1004	ESP
+Ski jumper 1005
+
+^ The maximum length of ski jumper's name is 25.
+Ski jumper 1006 123456789	KAZ	R
+Ski jumper 1007	1234567890	BRA
+
+^ Some random names with default suits.
+Lainey Ferrell	USA
+Brooklyn Dunn	SUI
+Marilyn Park	IND
+Terrence Hickman	SWE
+Melany Estrada	GRE
+Leandro Ashley	SIN
+Jaylin Schwartz	NOR
+Dexter Perry	IRL
+Ayana Sullivan	LIE
+Gilberto Munoz	MEX
+Jonathan Tapia	CAN
+Sam Ortiz	FRA
+Issac Joyce	DEN
+Jacqueline Morrison	ALG
+Sheldon Macias	RSA
+Giovanni Rivers	AUT
+Dylan Peterson	GER
+Joshua Greene	POL
+Moses Benitez	ARG
+Eduardo Tanner	JAM
+Erick Cain	NZL
+Devon Abbott	JPN
+Demarcus Bowen	UKR
+Reynaldo Benton	NED
+Victor Hurley	BLR
+Camilla West	CHN
+Johanna Gallegos	EGY
+Isaiah Conley	ISR
+Martha Marshall	BEL
+Chloe Marks	POR
